@@ -5,7 +5,7 @@ Both source code and game is under .rbxl file but however source code is in Star
 
 <a href="https://www.roblox.com/games/128755388711520/Bowling-Mega-Mix-GCSE">Play Game in Roblox Here</a>
 
-<h3>Both of these links take you to Untitled_Knight_Game</h3>
+<h3>Both of these links take you to Bowling_Mega_Mix</h3>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bowling_Mega_Mix">Bowling_Mega_Mix Repository Page</a>
 
